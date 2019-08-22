@@ -1,11 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d75df66-e5b7-42df-8aca-863a3eae54d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Emergency-Contact/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Emergency-Contact/assets/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Emergency-Contact/assets/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.Emergency-Contact/emergencyContactIndex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.form-medical-information.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/00.form-medical-information.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.footer-social.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/01.footer-social.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.pagination.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/02.pagination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.zone-benefits-grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/03.zone-benefits-grid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.zone-cards.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/04.zone-cards.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.zone-CTA.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/05.zone-CTA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.zone-hero.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/06.zone-hero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08.zone-related-links.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/08.zone-related-links.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.zone-story-img+text.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/09.zone-story-img+text.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.custom-numeric-counters.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/10.custom-numeric-counters.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.ecommerce-catalog.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/11.ecommerce-catalog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ui-chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/12.ui-chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.ui-chart-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/13.ui-chart-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.layout-staff.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/14.layout-staff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.card-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/15.card-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.card-full-height.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/16.card-full-height.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.card-small-popup.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/17.card-small-popup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.ecommerce-badge.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/18.ecommerce-badge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.footer-mega-menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/19.footer-mega-menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.quote-testimonial.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/20.quote-testimonial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.sidebar.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/21.sidebar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-ui-table.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/22-ui-table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/03-even-square/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/05-factorial/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/02-maths/06-fizzbuzz/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/01-change-bcg-one/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/01-change-bcg-one/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/01-change-bcg-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/01-change-bcg-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/02-change-bcg-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/02-change-bcg-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/03-change-bcg-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/03-colors/03-change-bcg-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/01-title-by-hour-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/01-title-by-hour-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/02-title-by-hour-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/02-title-by-hour-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/03-age-by-select/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.The-Hills/js-complete-course/04-dates/03-age-by-select/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Pjmh5SGkPGtIxnIiSQXgur05YL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.Emergency-Contact/assets/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01.Emergency-Contact/assets/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01.Emergency-Contact" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d75df66-e5b7-42df-8aca-863a3eae54d8" name="Default Changelist" comment="" />
+      <created>1566395995468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566395995468</updated>
+      <workItem from="1566395996647" duration="3689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
